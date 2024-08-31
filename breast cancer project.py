@@ -1,6 +1,8 @@
 #Date: 31/08/2024
 #Coded by: Hansani Kaumadi
-#
+#A basic ML project to predict a breast cancer is malignant or not using logistic regression 
+#Used Libraries: pandas, seaborn, skikit learn, matplotlib
+#Dataset taken from kaggle URL: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data
 
 import pandas as pd;
 import  seaborn as sns
